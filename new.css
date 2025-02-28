@@ -1,0 +1,9 @@
+#new-arrivals {
+    margin-top: 40px;
+}
+
+.movie-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
